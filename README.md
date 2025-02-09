@@ -8,7 +8,7 @@ Welcome to this repository! Here, I'm sharing solutions to some of the problems 
 - Ethical Use: This repository is not intended to undermine platforms like HackerRank or to provide shortcuts. The goal is to help those who might be stuck or want to compare their solutions with mine for better understanding.
 
 ## Included Solutions:
-1. [Price Checks](/Price Checks.py)
+1. [Price Checks](/Price%20Checks.py)
 2. [Youngest Employees](/Youngest%20Employees.sql)
 3. [RSET API: Product in Range](/RSET%20API%20Product%20in%20Range.py)
 
