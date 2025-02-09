@@ -1,0 +1,1 @@
+SELECT u.uin, e.name FROM EMPLOYEE e JOIN EMPLOYEE_UIN u ON e.id=u.id WHERE e.age < 25 ORDER BY e.name ASC, e.id ASC
